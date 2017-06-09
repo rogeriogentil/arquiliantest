@@ -1,0 +1,7 @@
+# Diretório Maven de arquivos compilados
+target/
+
+# Arquivos NetBeans 
+nb-configuration.xml
+nbactions.xml
+nbproject/private
